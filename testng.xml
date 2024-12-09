@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  <test thread-count="2" name="Test">
+    <classes>
+      <class name="assigment.FIS_Selenium_Assignment\src\test\java\testclasses\RunTest.java"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

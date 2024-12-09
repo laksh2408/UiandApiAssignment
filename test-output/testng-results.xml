@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-09T10:24:49 IST" name="Default suite" finished-at="2024-12-09T10:25:14 IST" duration-ms="24465">
+    <groups>
+    </groups>
+    <test started-at="2024-12-09T10:24:49 IST" name="Default test" finished-at="2024-12-09T10:25:14 IST" duration-ms="24465">
+      <class name="testclasses.RunUiTest">
+        <test-method is-config="true" signature="launchUrl()[pri:0, instance:testclasses.RunUiTest@10e31a9a]" started-at="2024-12-09T10:24:49 IST" name="launchUrl" finished-at="2024-12-09T10:24:56 IST" duration-ms="6480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method signature="executeTest()[pri:0, instance:testclasses.RunUiTest@10e31a9a]" started-at="2024-12-09T10:24:56 IST" name="executeTest" finished-at="2024-12-09T10:25:13 IST" duration-ms="17329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testclasses.RunUiTest@10e31a9a]" started-at="2024-12-09T10:25:13 IST" name="teardown" finished-at="2024-12-09T10:25:14 IST" duration-ms="585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testclasses.RunUiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
